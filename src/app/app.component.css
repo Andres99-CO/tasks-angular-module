@@ -1,0 +1,10 @@
+.app{
+    border-radius: 5px;
+    margin-top: 1em;
+    padding: 2em;
+    background-color: rgba(245, 245, 220, 0.583);
+}
+
+#title{
+    color: rgb(194, 59, 59);
+}
